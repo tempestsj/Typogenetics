@@ -1,0 +1,12 @@
+.strandBase, .marker {
+    width: 20px;
+    text-align: center;    
+}
+
+.strandBase {
+    font-size: 1.5em;
+}
+
+.marker {
+    font-size: 0.8em;
+}
