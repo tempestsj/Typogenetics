@@ -163,7 +163,7 @@ function makeStrandDiv(index, base) {
         .addClass("strandBase")
         .css({
             position: "absolute",
-            top: "50px",
+            top: "100px",
             left: (LEFT_MARGIN + TEXTSIZE*index) + "px"
         })
         .text(base)
@@ -185,7 +185,7 @@ function makeMarkerDiv() {
     .addClass("marker")
     .css({
         position: "absolute",
-        top: "70px",
+        top: "120px",
         left: "0px"
     })
     .text("\u25B2")
